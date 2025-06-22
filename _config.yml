@@ -12,3 +12,5 @@ github_username: rbian
 repository: "rbian/rbian.github.io"
 baseurl: ""
 url: "https://rbian.github.io"
+theme: minima
+future: true
