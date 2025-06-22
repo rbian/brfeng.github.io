@@ -9,3 +9,5 @@
 title: rbian's blog
 description: This is my blog ❤
 github_username: rbian
+baseurl: ""
+url: "https://rbian.github.io"
